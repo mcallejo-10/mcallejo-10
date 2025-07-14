@@ -4,7 +4,7 @@ Soy una desarrolladora frontend especializada en **Angular** con experiencia en 
 
 Uno de mis proyectos más destacados es **[TecAway](https://tec-away-frontend.vercel.app/)**, una plataforma web para conectar servicios técnicos de artes escénicas. Además, sigo explorando nuevas tecnologías y desarrollando proyectos que puedes encontrar en mi [GitHub](https://github.com/mcallejo-10).  
 
-🌍 **Puedes conocer más sobre mí en mi web:** [mcallejo-10.github.io/Miranda](https://miranda-portfolio.vercel.app) 
+🌍 **Puedes conocer más sobre mí en mi web:** [Miranda Callejón - Portfolio](https://miranda-portfolio.vercel.app) 
 
 ---
 
