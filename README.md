@@ -17,11 +17,11 @@ Uno de mis proyectos más destacados es **[TecAway](https://tec-away-frontend.ve
 ## 🛠️ Tecnologías y herramientas  
 
 ### 🔹 Frontend  
-[![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)](https://github.com/mcallejo-10/TecAway-Frontend)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mcallejo-10/summer-meal)
-[![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/mcallejo-10/summer-meal)
-[![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/mcallejo-10/TecAway-Frontend)
-[![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mcallejo-10/TecAway-Backend) 
+[![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)](https://github.com/mcallejo-10/TecAway-Frontend?tab=readme-ov-file#tecaway-frontend)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mcallejo-10/summer-meal?tab=readme-ov-file#%EF%B8%8F-summer-meal-v2)
+[![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/mcallejo-10/summer-meal?tab=readme-ov-file#%EF%B8%8F-summer-meal-v2)
+[![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/mcallejo-10/TecAway-Frontend?tab=readme-ov-file#tecaway-frontend)
+[![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mcallejo-10/TecAway-Backend?tab=readme-ov-file#tecaway-backend) 
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26) 
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3) 
