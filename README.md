@@ -17,7 +17,7 @@ Uno de mis proyectos más destacados es **[TecAway](https://tec-away-frontend.ve
 ## 🛠️ Tecnologías y herramientas  
 
 ### 🔹 Frontend  
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031) 
+[![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)](https://github.com/mcallejo-10/TecAway-Frontend)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC) 
