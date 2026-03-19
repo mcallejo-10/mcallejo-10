@@ -22,16 +22,16 @@ Uno de mis proyectos más destacados es **[TecAway](https://tec-away-frontend.ve
 [![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/mcallejo-10/summer-meal?tab=readme-ov-file#%EF%B8%8F-summer-meal-v2)
 [![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/mcallejo-10/TecAway-Frontend?tab=readme-ov-file#tecaway-frontend)
 [![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mcallejo-10/TecAway-Backend?tab=readme-ov-file#tecaway-backend) 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26) 
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)  
+[![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)](https://github.com/mcallejo-10/TecAway-Frontend?tab=readme-ov-file#tecaway-frontend)
+[![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/mcallejo-10/TecAway-Frontend?tab=readme-ov-file#tecaway-frontend)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://github.com/mcallejo-10/TecAway-Frontend?tab=readme-ov-file#tecaway-frontend)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://github.com/mcallejo-10/summer-meal?tab=readme-ov-file#%EF%B8%8F-summer-meal-v2)
 
 ### 🔹 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933) 
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=005C84) 
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=00599C)  
+[![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/mcallejo-10/TecAway-Backend?tab=readme-ov-file#tecaway-backend)
+[![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)](https://github.com/mcallejo-10/TecAway-Backend?tab=readme-ov-file#tecaway-backend)
+[![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=005C84)](https://github.com/mcallejo-10/TecAway-Backend?tab=readme-ov-file#tecaway-backend)
+[![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=00599C)](https://github.com/mcallejo-10/42_so_long)
 
 ### 🔹 Testing y calidad  
 ![Jasmine](https://img.shields.io/badge/Jasmine-20232A?style=for-the-badge&logo=jasmine&logoColor=8A4182) 
